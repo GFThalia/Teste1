@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <h1> É serio </h1>
-        <a href="index.php"> como assim? </a>
+        <h1> n to brincando </h1>
+        <a href="index.php"> como assim? </a>       
         <?php
         // put your code here
         ?>
